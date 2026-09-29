@@ -18,7 +18,19 @@
 
 ### `> sobre_mim`
 
-Desenvolvedor full-stack e fundador do **Recreate Studios**. Há mais de 5 anos crio experiências para Minecraft: mods, plugins, modpacks, launchers e servidores. Também desenvolvo sites e aplicações web.
+Opa! Eu sou o VenomBrt, programador e fundador do **Recreate Studios**. Há mais de 5 anos crio para Minecraft: plugins, mods, modpacks, launchers e servidores, desde coisas simples até sistemas bem complexos.
+
+Hoje meu principal projeto é o **Recreate**, um servidor de megaverso que venho desenvolvendo junto com uma equipe.
+
+### `> o_que_eu_faco`
+
+- 🧩 **Plugins e mods** do simples ao sistema complexo e personalizado
+- 🛠️ **Correção e otimização**: corrijo bugs, melhoro e adiciono funções em sistemas que já existem
+- 🚀 **Launchers personalizados** com a cara do seu servidor
+- 🌐 **Sites** completos do jeito que você quiser
+- ⚙️ **Sistemas, ferramentas e automações**
+
+> Se você tem uma ideia e não sabe como colocar em prática, pode me chamar. Me explica o que você precisa e a gente vê junto a melhor forma de fazer.
 
 ### `> projetos_em_destaque`
 

@@ -18,7 +18,7 @@
 
 ### `> sobre_mim`
 
-Opa! Eu sou o VenomBrt, programador e fundador do **Recreate Studios**. Há mais de 5 anos crio para Minecraft: plugins, mods, modpacks, launchers e servidores, desde coisas simples até sistemas bem complexos.
+Opa! Eu sou o VenomBrt, programador e fundador do **Recreate Studios**. Programo há uns 7 anos: crio mods e modpacks para Minecraft há 5 anos e plugins há 2, desde coisas simples até sistemas bem complexos.
 
 Hoje meu principal projeto é o **Recreate**, um servidor de megaverso que venho desenvolvendo junto com uma equipe.
 

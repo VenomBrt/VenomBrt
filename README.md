@@ -36,7 +36,7 @@ Hoje meu principal projeto é o **Recreate**, um servidor de megaverso que venho
 
 | Projeto | Tipo | Sobre |
 |---|---|---|
-| ✈️ **Recreate Aeronautics** | Mod · Forge 1.20.1 | Port do Create Aeronautics, com muitas partes refeitas do zero: veículos com física, balões e queimadores de ar quente |
+| ✈️ **Recreate Aeronautics** | Mod · Forge 1.20.1 | Port do Create Aeronautics (NeoForge 1.21.1 → Forge 1.20.1) com muitas partes refeitas do zero: aviões, dirigíveis, balões e carros com física real |
 | 🔒 **BetterLockCraft** | Plugin · 1.20.x – 1.21.x | Cadeados visíveis em portas, baús e barris, 2 minigames de lockpick e menu completo |
 | 💉 **Sistema de Medicina** | Plugin · Paper 1.20.1 | Mais de 16 tipos de doenças, vários tipos de ferimentos e itens médicos |
 | 🚀 **[Recreate Launcher](https://github.com/VenomBrt/recreate-launcher)** | Launcher · Electron | Login, skins, amigos, níveis e atualização automática |
